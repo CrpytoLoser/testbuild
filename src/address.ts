@@ -111,3 +111,5 @@ export function createSchnorrAddress (params: any): any {
     address
   };
 }
+
+//测试
